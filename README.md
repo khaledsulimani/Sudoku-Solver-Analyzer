@@ -276,7 +276,65 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <img width="1804" height="1288" alt="image" src="https://github.com/user-attachments/assets/1ed3ea9a-6ad5-4312-929c-76f30fedeba2" />
 
 ---
+## 📚 References for Sudoku Game Development and Solving
 
+### 🎮 Game Development & Visualization
+- [Pygame Documentation](https://www.pygame.org/docs/)  
+  Official docs for building interactive games and GUIs in Python.
+
+- [GeeksforGeeks – Building and Visualizing Sudoku Game Using Pygame](https://www.geeksforgeeks.org/python/building-and-visualizing-sudoku-game-using-pygame/)  
+  Step-by-step guide to creating a playable Sudoku grid with Pygame.
+
+- [ThePythonCode – Make a Sudoku Game in Python](https://thepythoncode.com/article/make-a-sudoku-game-in-python)  
+  Full-featured implementation with puzzle generation, solving, and GUI.
+
+---
+
+### 🧠 Solving Algorithms & Techniques
+- [GeeksforGeeks – Backtracking Algorithms](https://www.geeksforgeeks.org/dsa/backtracking-algorithms/)  
+  Core logic behind recursive Sudoku solvers.
+
+- [Wikipedia – Dancing Links](https://en.wikipedia.org/wiki/Dancing_Links)  
+  Advanced technique for solving exact cover problems like Sudoku.
+
+- [Sudoku Solver: A Comparative Study of Different Algorithms and Image Processing Techniques](https://www.researchgate.net/publication/376566206_Sudoku_Solver_A_Comparative_Study_of_Different_Algorithms_and_Image_Processing_Techniques/fulltext/657d9aad8e2401526ddc12cf/Sudoku-Solver-A-Comparative-Study-of-Different-Algorithms-and-Image-Processing-Techniques.pdf)  
+  Research comparing backtracking, constraint propagation, and DLX [A](https://bing.com/search?q=academic+sources+for+sudoku+solving+algorithms&copilot_analytics_metadata=eyJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvYmluZy5jb21cL3NlYXJjaD9xPWFjYWRlbWljK3NvdXJjZXMrZm9yK3N1ZG9rdStzb2x2aW5nK2FsZ29yaXRobXMiLCJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiI0TWR1dlZvWllqaVRLVldEUzNMYzciLCJldmVudEluZm9fY2xpY2tTb3VyY2UiOiJjaXRhdGlvbkxpbmsifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+- [Efficient Data Structures for Solving Sudoku Puzzles](https://www.dpublication.com/wp-content/uploads/2021/11/01-2670.pdf)  
+  Academic paper exploring optimization strategies and algorithmic efficiency [A](https://bing.com/search?q=academic+sources+for+sudoku+solving+algorithms&copilot_analytics_metadata=eyJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrU291cmNlIjoiY2l0YXRpb25MaW5rIiwiZXZlbnRJbmZvX2NvbnZlcnNhdGlvbklkIjoiNE1kdXZWb1pZamlUS1ZXRFMzTGM3IiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvYmluZy5jb21cL3NlYXJjaD9xPWFjYWRlbWljK3NvdXJjZXMrZm9yK3N1ZG9rdStzb2x2aW5nK2FsZ29yaXRobXMifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+- [Analysis and Comparison of Solving Algorithms for Sudoku – KTH Sweden](https://www.diva-portal.org/smash/get/diva2:811020/FULLTEXT01.pdf.%29)  
+  Degree project comparing rule-based, constraint programming, and backtracking approaches [A](https://bing.com/search?q=academic+sources+for+sudoku+solving+algorithms&copilot_analytics_metadata=eyJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrU291cmNlIjoiY2l0YXRpb25MaW5rIiwiZXZlbnRJbmZvX2NvbnZlcnNhdGlvbklkIjoiNE1kdXZWb1pZamlUS1ZXRFMzTGM3IiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvYmluZy5jb21cL3NlYXJjaD9xPWFjYWRlbWljK3NvdXJjZXMrZm9yK3N1ZG9rdStzb2x2aW5nK2FsZ29yaXRobXMifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+---
+
+### 🖼 Image Processing & OCR
+- [PyImageSearch – OpenCV Sudoku Solver and OCR](https://pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/)  
+  Tutorial on extracting Sudoku grids from images using OpenCV and Tesseract OCR.
+
+- [SMART Sudoku Solver Using Image Processing](https://www.academia.edu/105543567/Project_report_for_Sudoku_Solver)  
+  Academic report on integrating image recognition with solving logic [A](https://bing.com/search?q=academic+sources+for+sudoku+solving+algorithms&copilot_analytics_metadata=eyJldmVudEluZm9fY2xpY2tTb3VyY2UiOiJjaXRhdGlvbkxpbmsiLCJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiI0TWR1dlZvWllqaVRLVldEUzNMYzciLCJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvYmluZy5jb21cL3NlYXJjaD9xPWFjYWRlbWljK3NvdXJjZXMrZm9yK3N1ZG9rdStzb2x2aW5nK2FsZ29yaXRobXMifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+---
+
+### ⏱ Performance Analysis & Visualization
+- [Python Docs – timeit](https://docs.python.org/3/library/timeit.html)  
+  Benchmarking tool for measuring algorithm execution time.
+
+- [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)  
+  Visualization library for plotting performance comparisons.
+
+---
+
+### 🧪 Scientific & Technical Enhancements
+- [Solving, Rating and Generating Sudoku Puzzles with Genetic Algorithms](https://users.encs.concordia.ca/~kharma/coen6321/Papers/SudokuGA%20(1).pdf)  
+  Research on using GA for puzzle generation and difficulty rating [A](https://bing.com/search?q=academic+sources+for+sudoku+solving+algorithms&copilot_analytics_metadata=eyJldmVudEluZm9fY2xpY2tEZXN0aW5hdGlvbiI6Imh0dHBzOlwvXC9iaW5nLmNvbVwvc2VhcmNoP3E9YWNhZGVtaWMrc291cmNlcytmb3Irc3Vkb2t1K3NvbHZpbmcrYWxnb3JpdGhtcyIsImV2ZW50SW5mb19tZXNzYWdlSWQiOiJnUEFXWm0yWERENmZnQzRNeWhuS2EiLCJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiI0TWR1dlZvWllqaVRLVldEUzNMYzciLCJldmVudEluZm9fY2xpY2tTb3VyY2UiOiJjaXRhdGlvbkxpbmsifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+- [Design and Making of Sudoku Game Based on Unity3D – Springer](https://link.springer.com/content/pdf/10.1007/978-981-13-3663-8_56.pdf)  
+  Game design paper using Unity3D and C# for Sudoku development [B](https://arxiv.org/pdf/2507.09708?copilot_analytics_metadata=eyJldmVudEluZm9fY2xpY2tTb3VyY2UiOiJjaXRhdGlvbkxpbmsiLCJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiI0TWR1dlZvWllqaVRLVldEUzNMYzciLCJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvYXJ4aXYub3JnXC9wZGZcLzI1MDcuMDk3MDgifQ%3D%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
+
+- [Development of SudoDuel – Multiplayer Sudoku Game](https://project-archive.inf.ed.ac.uk/ug4/20244414/ug4_proj.pdf)  
+  University of Edinburgh project on competitive online Sudoku gameplay [C](https://euacademic.org/UploadArticle/76.pdf?copilot_analytics_metadata=eyJldmVudEluZm9fbWVzc2FnZUlkIjoiZ1BBV1ptMlhERDZmZ0M0TXlobkthIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvZXVhY2FkZW1pYy5vcmdcL1VwbG9hZEFydGljbGVcLzc2LnBkZiIsImV2ZW50SW5mb19jbGlja1NvdXJjZSI6ImNpdGF0aW9uTGluayIsImV2ZW50SW5mb19jb252ZXJzYXRpb25JZCI6IjRNZHV2Vm9aWWppVEtWV0RTM0xjNyJ9&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1).
 ---
   
 ## 🧑‍💻 Author
