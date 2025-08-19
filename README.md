@@ -2,9 +2,11 @@
 
 A comprehensive Sudoku solving application with advanced computer vision capabilities for mobile game screenshot processing.
 
-![Sudoku Solver Demo](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-GUI-red.svg)
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
+
 
 ## 🌟 Features
 
@@ -218,15 +220,69 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Web interface version
 - [ ] Mobile app development
 
-## 📞 Support
+## 📸 Project Results
 
-If you encounter any issues or have questions:
+### *python app result*:  
 
-1. Check the [Issues](https://github.com/yourusername/sudoku-solver-cv/issues) page
-2. Create a new issue with detailed description
-3. Include sample images for image processing problems
-4. Provide system information and error logs
+
+![صورة واتساب بتاريخ 1447-02-25 في 08 44 46_37a286f5](https://github.com/user-attachments/assets/c08d392b-938c-43c3-b7a6-3e131ae3467f)
+
+
+
+
+### *the phone app after solving soduku with python app*:
+
+![صورة واتساب بتاريخ 1447-02-25 في 08 45 55_cd31f9d1](https://github.com/user-attachments/assets/9f370e80-d0e9-4265-9457-7faab0d4b34a)
+
+
+
+
+### *gui main*:
+<img width="1799" height="1243" alt="image" src="https://github.com/user-attachments/assets/cafc7ae6-3477-4527-a442-c99b0b787b94" />
+
+### *gui hard level genrated soduku*:
+<img width="1799" height="1241" alt="image" src="https://github.com/user-attachments/assets/7bfaca92-db0e-41a2-80ec-ee35b468f469" />
+
+### *gui hard level interface solved by algorithm*:
+<img width="1794" height="1240" alt="image" src="https://github.com/user-attachments/assets/0307af0a-a286-49a3-a1ab-5649eb79ec88" />
+
+### *gui performance analysis*:
+<img width="1798" height="1243" alt="image" src="https://github.com/user-attachments/assets/1dec692f-e770-4192-8a44-a6ff9cf18cee" />
+
+### *gui image solver*:
+<img width="1799" height="1240" alt="image" src="https://github.com/user-attachments/assets/4ad097f7-1407-4b45-b3a8-adfa0972d7f3" />
+
+
+
+### *graph for Algorithm*:
+
+## Execution Time Comparison:
+<img width="1503" height="991" alt="image" src="https://github.com/user-attachments/assets/ade16031-5aaf-4d12-a694-ae45db4f373a" />
+
+
+## Steps Taken Comparison:
+<img width="1496" height="986" alt="image" src="https://github.com/user-attachments/assets/2de1d44c-7425-4738-8a7a-2481e09fcc57" />
+
+## Memory Usage Comparison:
+<img width="1503" height="989" alt="image" src="https://github.com/user-attachments/assets/e1a4b8a7-5198-44a3-8574-3c59dd62634a" />
+
+## Comprehensive Dashboard:
+<img width="2260" height="1435" alt="image" src="https://github.com/user-attachments/assets/ebd51ea7-008d-4a63-a51e-f3ad32416a3a" />
+
+## Historical Performance Trends:
+<img width="1801" height="992" alt="image" src="https://github.com/user-attachments/assets/a924c8f1-5ddc-46ad-8825-9ab19e044b46" />
+
+## exit graph:
+<img width="1804" height="1288" alt="image" src="https://github.com/user-attachments/assets/1ed3ea9a-6ad5-4312-929c-76f30fedeba2" />
 
 ---
+
+---
+  
+## 🧑‍💻 Author
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
+
+---
+
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
